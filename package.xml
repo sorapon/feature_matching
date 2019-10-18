@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>object_recognition</name>
+  <name>feature_matching</name>
   <version>0.0.0</version>
   <description>The object_recognition package</description>
 
